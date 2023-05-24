@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">healthy nutrition</string>
+    <string name="start_btn">Start</string>
+    <string name="user">User</string>
+    <string name="txt">مرحبا بكم في تطبيق التغذية الصحية الجيدة</string>
+    <string name="diet_1">diet 1</string>
+    <string name="diet_2">diet 2</string>
+    <string name="diet_3">diet 3</string>
+    <string name="diet_4">diet 4</string>
+    <string name="diet_5">diet 5</string>
+    <string name="diet_6">diet 6</string>
+    <string name="diet_7">diet 7</string>
+    <string name="diet_8">diet 8</string>
+    <string name="diet_9">diet 7</string>
+    <string name="diet_10">diet 8</string>
+    <string name="login">Login</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome, create your account to continue</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_date">Birthday</string>
+
+    <string name="question_answer">General questions and answers</string>
+    <string name="monitoring">Continuous monitoring</string>
+    <string name="Medication">Medication stimulant</string>
+    <string name="settings">Settings</string>
+    <string name="help">Support and assistance</string>
+
+    <string name="Continuous_monitoring">Continuous monitoring</string>
+    <string name="Medication_stimulant">Medication stimulant</string>
+    <string name="watch_temperature">  watch your \ntemperature</string>
+    <string name="watch_your_sugar">Watch your \n sugar</string>
+    <string name="watch_blood_pressure">  Watch your \nblood pressure</string>
+    <string name="unknown"> Unknown \n(coming soon)</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="gender">Gender</string>
+    <string name="feminine">Feminine</string>
+    <string name="male">Male</string>
+    <string name="send">Send</string>
+    <string name="hint_send">write a code</string>
+
+    <string name="stores">Stores</string>
+    <string name="diets">Diets</string>
+    <string name="doctors_account">Docs_account</string>
+    <string name="sport_routine">Sport routine</string>
+
+
+    <string name="watching">open</string>
+    <string name="hh">close</string>
+    <string name="medicine">Gender</string>
+    <string name="setting">Settings</string>
+
+    <string name="diabetics">Diabetics</string>
+    <string name="kidney_patients"> Kidney \nPatients</string>
+
+    <string name="treatment">Treatment</string>
+    <string name="disease1">disease1</string>
+    <string name="disease2">disease2</string>
+    <string name="disease3">disease3</string>
+    <string name="disease4">disease4</string>
+    <string name="disease5">disease5</string>
+    <string name="disease6">disease6</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorites_diet">Favorites_Diets</string>
+    <string name="favorites_docs">Favorites_Docs_Acc</string>
+    <string name="favorites_stores">Favorites_stores</string>
+    <string name="contact">Contact</string>
+    <string name="call_us">Call_Us</string>
+    <string name="mail">Mail</string>
+    <string name="share">Share</string>
+    <string name="password">Password</string>
+    <string name="q1">Question 1</string>
+    <string name="a1">Answer 1</string>
+    <string name="destination">Destination</string>
+    <string name="doc_name">Doc_Name</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="languages">Languages</string>
+    <string name="arabic">Arabic</string>
+    <string name="french">French</string>
+    <string name="english">English</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="sign_in">Sign in</string>
+    <string name="logout">Logout</string>
+
+    <string name="store1">Store 1</string>
+    <string name="store2">Store 2</string>
+    <string name="store3">Store 3</string>
+    <string name="store4">Store 4</string>
+    <string name="store5">Store 5</string>
+    <string name="store6">Store 6</string>
+    <string name="store7">Store 7</string>
+    <string name="store8">Store 8</string>
+    <string name="store9">Store 9</string>
+    <string name="store10">Store 10</string>
+
+    <string name="location1">Location 1</string>
+    <string name="location2">Location 2</string>
+    <string name="location3">Location 3</string>
+    <string name="location4">Location 4</string>
+    <string name="location5">Location 5</string>
+    <string name="location6">Location 6</string>
+    <string name="location7">Location 7</string>
+    <string name="location8">Location 8</string>
+    <string name="location9">Location 9</string>
+    <string name="location10">Location 10</string>
+    <string name="coming">Coming Soon !!</string>
+    <string name="ghardaia">Ghardaia</string>
+    <string name="ouargla">Ouargla</string>
+    <string name="oran">Oran</string>
+    <string name="Bejaia">Bejaia</string>
+    <string name="Blida">Blida</string>
+    <string name="Tamanrasset">Tamanrasset</string>
+    <string name="Setif">"Setif "</string>
+    <string name="Tlemcen">Tlemcen</string>
+    <string name="Skikda">Skikda</string>
+    <string name="Biskra">Biskra</string>
+    <string name="asklogin">Registration request</string>
+    <string name="alarmOn">Alarm On</string>
+    <string name="alarmoff">Alarm Off</string>
+    <string name="sport1">Sport 1</string>
+    <string name="sport2">Sport 2</string>
+    <string name="sport3">Sport 3</string>
+    <string name="sport4">Sport 4</string>
+    <string name="sport5">Sport 5</string>
+    <string name="sport6">Sport 6</string>
+    <string name="sport7">Sport 7</string>
+    <string name="sport8">Sport 8</string>
+    <string name="sport9">Sport 9</string>
+    <string name="sport10">Sport 10</string>
+    <string name="question1">What is the definition of healthy nutrition ?</string>
+    <string name="answer1">Healthy nutrition refers to the consumption of a balanced and varied diet that provides the necessary nutrients for the body to function properly. A healthy diet typically includes a variety of foods from all the food groups, including fruits, vegetables, whole grains, lean proteins, and healthy fats. It also involves limiting the intake of processed and high-calorie foods, sugary drinks, and alcohol.</string>
+
+    //Headings
+    <string name="heading_one">Quick &amp; Easy Payments</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+
+
+</resources>
